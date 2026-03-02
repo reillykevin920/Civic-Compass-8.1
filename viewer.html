@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Viewer • Corpa Compass</title>
+  <link rel="stylesheet" href="./assets/styles.css"/>
+  <style>
+    .viewer-header{display:flex;align-items:center;gap:12px;padding:12px 14px;border-bottom:1px solid rgba(0,0,0,.08);position:sticky;top:0;background:var(--bg,#fff);z-index:10}
+    .viewer-back{appearance:none;border:1px solid rgba(0,0,0,.15);background:#fff;border-radius:10px;padding:8px 10px;cursor:pointer;font-weight:600}
+    .viewer-title{font-weight:700}
+    .viewer-frame{width:100%;height:calc(100vh - 56px);border:0}
+    .viewer-img{max-width:100%;height:auto;display:block;margin:0 auto;padding:12px}
+    .viewer-note{padding:12px 14px;color:rgba(0,0,0,.65)}
+  </style>
+</head>
+<body>
+  <div class="viewer-header">
+    <button class="viewer-back" id="backBtn">← Back</button>
+    <div class="viewer-title" id="title">Viewer</div>
+  </div>
+  <div id="content"></div>
+
+  <script>
+    (function(){
+      const params = new URLSearchParams(location.search);
+      const file = params.get('file') || '';
+      const title = params.get('title') || (file ? file.split('/').pop() : 'Viewer');
+      document.getElementById('title').textContent = decodeURIComponent(title);
+
+      const content = document.getElementById('content');
+      const safeFile = file.replace(/^\/+/, '');
+      const lower = safeFile.toLowerCase();
+
+      document.getElementById('backBtn').addEventListener('click', () => {
+        if (history.length > 1) { history.back(); }
+        else { location.href = './index.html'; }
+      });
+
+      if (!safeFile) {
+        content.innerHTML = '<div class="viewer-note">No file provided.</div>';
+        return;
+      }
+
+      if (lower.match(/\.(png|jpg|jpeg|webp|gif)$/)) {
+        const img = document.createElement('img');
+        img.className = 'viewer-img';
+        img.src = './' + safeFile;
+        img.alt = title;
+        content.appendChild(img);
+        return;
+      }
+
+      // PDFs and everything else via iframe
+      const iframe = document.createElement('iframe');
+      iframe.className = 'viewer-frame';
+      iframe.src = './' + safeFile;
+      iframe.title = title;
+      content.appendChild(iframe);
+    })();
+  </script>
+</body>
+</html>

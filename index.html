@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+    <title>Corpa Compass</title>
+<meta content="#1f4d3a" name="theme-color"/>
+<link href="./manifest.webmanifest" rel="manifest"/>
+<link href="./assets/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="./assets/icons/favicon32.ico" rel="icon"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta content="default" name="apple-mobile-web-app-status-bar-style"/>
+<link href="./assets/styles.css" rel="stylesheet"/>
+</head>
+<body>
+<header class="topbar">
+<div class="brand">
+        <img alt="Corpa Compass" class="logo" src="./assets/icons/icon-192.png"/>
+<div class="title">
+        <h1 id="appTitle">Corpa Compass</h1>
+        <div id="appSubtitle" class="subtle" style="margin-top:6px; font-weight:600;">Reference dataset</div>
+</div>
+</div>
+<div class="status" id="status">Loading index…</div>
+</header>
+<main class="container">
+<section class="controls">
+<input class="search" id="q" placeholder="Search (keywords, section, topic)" type="search"/>
+<div class="filter-row">
+<label class="filter-label">Category
+          <select class="select" id="catSelect"></select>
+</label>
+<label class="filter-label">Corpus
+          <select class="select" id="corpusSelect">
+<option value="ALL">All</option>
+<!-- corpora injected by app.js (dataset_manifest.json) -->
+</select>
+</label>
+<button class="link" id="clear" type="button">Clear</button>
+</div><div class="meta"><span id="count">0</span> results</div>
+</section>
+<section class="results">
+<div id="results"></div>
+<!-- Technical Drawings (collapsible, category-style, lower on page) -->
+<details aria-label="Technical drawings" class="catgroup drawingspanel" id="techDrawings">
+<summary class="catgroup-summary">
+<span class="catgroup-title">Technical Drawings</span>
+<span class="catgroup-count">PDF library</span>
+</summary>
+<div class="catgroup-body drawings-body">
+<div class="drawings-sub">Tap a drawing to open the PDF (works offline after first cache).</div>
+<div class="drawings-list" id="drawingsList"></div>
+</div>
+</details>
+</section>
+</main>
+<footer class="footer">
+<details>
+<summary>Disclaimer &amp; license</summary>
+<div class="footer-body">
+<div class="footer-brand">
+        <img alt="Corpa Compass" class="footer-logo" src="./assets/icons/icon-192.png"/>
+<div class="footer-brand-text">
+        <div class="footer-name" id="footerName">Corpa Compass</div>
+<div class="footer-tag">Offline reference tool</div>
+</div>
+</div>
+        <p><strong>Reference tool.</strong> Corpa Compass is an offline reference and navigation aid. It is not legal advice and does not replace official, published documents or project-specific specifications.</p>
+<p><strong>Verify before enforcement.</strong> Always confirm requirements against the authoritative source documents and the controlling permit conditions. Where conflicts exist, the controlling document governs.</p>
+<p><strong>Internal deployment.</strong> This tool is designed to operate fully offline after an initial online load to cache data. Use on devices consistent with your organization’s IT and records policies.</p>
+<p><strong>License.</strong> © <span id="year"></span> Kevin Reilly. All rights reserved unless otherwise specified in a written agreement. Redistribution outside the deploying organization requires explicit permission.</p>
+</div>
+</details>
+</footer>
+<script type="module" defer src="./assets/app.js"></script>
+</body>
+</html>
