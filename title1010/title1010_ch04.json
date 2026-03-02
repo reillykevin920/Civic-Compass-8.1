@@ -1,0 +1,35 @@
+[
+  {
+    "anchor": "10-4-1",
+    "chapter": 4,
+    "corpus": "Title 1010",
+    "file": "title1010/title1010_ch04.json",
+    "heading": "Legislative Intent.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 0,
+    "verbatim": "The purpose of this chapter is to protect the tenants of dwellings whose owners contemplate converting the dwellings into condominiums for sale by providing such tenants with notice of that intent."
+  },
+  {
+    "anchor": "10-4-2",
+    "chapter": 4,
+    "corpus": "Title 1010",
+    "file": "title1010/title1010_ch04.json",
+    "heading": "Condominium Conversion.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 1,
+    "verbatim": "Condominium conversion means the transfer of ownership of less than the total number of dwelling units in a multiple dwelling unit structure, where any ownership interest created by the transfer of ownership is in a number of dwelling units that is less than the total number of units in the structure in which the seller had an interest prior to the sale or, with respect to a mobile home park, the transfer of ownership of the mobile home park property so that it is jointly and severally owned by the owners of the mobile homes upon such property."
+  },
+  {
+    "anchor": "10-4-3",
+    "chapter": 4,
+    "corpus": "Title 1010",
+    "file": "title1010/title1010_ch04.json",
+    "heading": "Notice of Condominium Conversion.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 2,
+    "verbatim": "(a)\tNo person with an ownership interest in more than ten dwelling units in one multiple dwelling unit structure, no owner of a mobile home park, and no officer or employee or agent of any such person shall transfer or contract to transfer the ownership of any such dwelling units or mobile home park for the purpose of converting an existing dwelling unit into a condominium unit or a mobile home park into condominium ownership where said dwelling unit or mobile home park is occupied by a tenant, until the tenant thereof and the housing authority of the City of Boulder have been given at least one hundred twenty days' prior written notice of the intent to sell said dwelling unit or mobile home park. If a tenant voluntarily vacates a dwelling unit after receiving said notice within the one hundred twenty day period, a transfer of title to that individual vacated unit may occur immediately upon the vacation. However, vacation of a dwelling unit after a rental increase or a request to vacate shall not be deemed to be a voluntary vacation.\n(b)\tThe written notice to the tenant required by subsection (a) of this section shall also contain the following language:\nIf you are sixty-two or over or have a low total household income, you may be qualified to receive assistance from the housing authority of the City of Boulder to remain in your apartment or mobile home. You may notify the housing authority within thirty days of this notice if you are interested in applying for assistance. The housing authority can be contacted at 441-3157, by mail at P.O. Box 791, Boulder, Colorado 80306, or in person at 1101 Arapahoe Avenue, Boulder, Colorado."
+  }
+]

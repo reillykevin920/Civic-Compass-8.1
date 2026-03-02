@@ -1,0 +1,101 @@
+{
+  "chapters": [
+    {
+      "chapter": "01",
+      "file": "title109_ch01.json",
+      "records": 6,
+      "sha256": "8d27ecc9b810a67a5861b322bd22fd8af57d23104eff780d8c1358ef35970ce3"
+    },
+    {
+      "chapter": "02",
+      "file": "title109_ch02.json",
+      "records": 21,
+      "sha256": "ce2f9515d3fad6df1ced46016d3f868cc00d20f6184866fc2a0e924b4b4f962d"
+    },
+    {
+      "chapter": "03",
+      "file": "title109_ch03.json",
+      "records": 12,
+      "sha256": "2ded48ee4e3e41de66144a5e3d1c4da24e696c25e94466a12bed2f26fc08c10b"
+    },
+    {
+      "chapter": "04",
+      "file": "title109_ch04.json",
+      "records": 4,
+      "sha256": "6497c4c76f28558948a3cffd03b95520f8baa1b203fadd1a31e22764155b05d9"
+    },
+    {
+      "chapter": "05",
+      "file": "title109_ch05.json",
+      "records": 3,
+      "sha256": "6ce97e15845d3df21d984ddd21be9a92069967a04574976a726a0009d62fdacb"
+    },
+    {
+      "chapter": "06",
+      "file": "title109_ch06.json",
+      "records": 7,
+      "sha256": "4ba84bbab08f585d7515b11506f22e1cf9db508b713736c5128111eb0473855a"
+    },
+    {
+      "chapter": "07",
+      "file": "title109_ch07.json",
+      "records": 13,
+      "sha256": "eab203ed1cac26bc223532404208b4bb21dbf140fd97eb5d03fb64e721b3d203"
+    },
+    {
+      "chapter": "08",
+      "file": "title109_ch08.json",
+      "records": 7,
+      "sha256": "8f6d33b7f3b43f964f6877c673f36ccf0f11b266944d7b50266643eef92ac7f8"
+    },
+    {
+      "chapter": "09",
+      "file": "title109_ch09.json",
+      "records": 21,
+      "sha256": "346b3d325dcc42ad93982d55c65317a3e215300815faca3e95f47cad97ecdbf2"
+    },
+    {
+      "chapter": "10",
+      "file": "title109_ch10.json",
+      "records": 3,
+      "sha256": "cba27fbc6709d0fcd07d510163e50bcd873ad1b6dc34c09e11896cf5c9e7bc86"
+    },
+    {
+      "chapter": "11",
+      "file": "title109_ch11.json",
+      "records": 24,
+      "sha256": "c6a1074303c6d8e8191bd8972e1e00344bb7a625caf7998dfd7b47bfd106714c"
+    },
+    {
+      "chapter": "12",
+      "file": "title109_ch12.json",
+      "records": 18,
+      "sha256": "a6baad6db86237f25304cc5a98d9cc0a8ec905e96257440eaa36f079111a4b42"
+    },
+    {
+      "chapter": "13",
+      "file": "title109_ch13.json",
+      "records": 16,
+      "sha256": "ec828a1a1345599fd4894c1b0bbc0ac1994868eab5106b4290e68047060e0a8b"
+    },
+    {
+      "chapter": "14",
+      "file": "title109_ch14.json",
+      "records": 33,
+      "sha256": "691acadeae02ccb24aac08795a25f15b774f18afb6a9066380add391b36400ed"
+    },
+    {
+      "chapter": "15",
+      "file": "title109_ch15.json",
+      "records": 9,
+      "sha256": "9febd1adcea4fecd2a07d8f540d27c53f3aed57d6a355d1db0d17872601077d8"
+    },
+    {
+      "chapter": "16",
+      "file": "title109_ch16.json",
+      "records": 1,
+      "sha256": "8287af92794a8c5d68d0f6ce55206f4c7b76ec8d94345a3b8800ce1869472943"
+    }
+  ],
+  "source_file": "generated"
+}

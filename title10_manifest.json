@@ -1,0 +1,509 @@
+{
+  "chapters": [
+    {
+      "chapter": "01",
+      "file": "title10_ch01.json",
+      "records": 17,
+      "sha256": "398ed322d93f999ea236113aa5169f16029fb8cc0dfa4458e286be3db794af02"
+    },
+    {
+      "chapter": "02",
+      "file": "title10_ch02.json",
+      "records": 1,
+      "sha256": "89de50232c84ca8c4b6546224809ee0e546c69ae5ab8cfa9a4c0eb17f7f5951a"
+    },
+    {
+      "chapter": "03",
+      "file": "title10_ch03.json",
+      "records": 1,
+      "sha256": "4fa6099c060fb977e47c7fe30a6f4fdb8b7622970005ce42b5b0c1c2e2260ead"
+    },
+    {
+      "chapter": "04",
+      "file": "title10_ch04.json",
+      "records": 2,
+      "sha256": "db0ac8a484332b7607fe03cf75dc71881fcb87244096ebfd28b31331b71c7809"
+    },
+    {
+      "chapter": "05",
+      "file": "title10_ch05.json",
+      "records": 1,
+      "sha256": "f49403f289504cbfcf3746e2aaadfe476bd659f567913382d90c5016e7819bb2"
+    },
+    {
+      "chapter": "06",
+      "file": "title10_ch06.json",
+      "records": 2,
+      "sha256": "fe1891934fc830afdb1844eccfef9e605f95b82a5e5c39dd27ee01d12af16a5b"
+    },
+    {
+      "chapter": "07",
+      "file": "title10_ch07.json",
+      "records": 2,
+      "sha256": "f54a78a3d91e1b28aa0c96b9934a333aeae2cb3bb71a494c5ad6d2be261447d9"
+    },
+    {
+      "chapter": "08",
+      "file": "title10_ch08.json",
+      "records": 2,
+      "sha256": "d6803de03c158a69fbf814f91873d3b9c6aac6bef204e4907550af6e56b37539"
+    },
+    {
+      "chapter": "09",
+      "file": "title10_ch09.json",
+      "records": 1,
+      "sha256": "e227d9e089d60dd50ab7dd08b00e476b26ba08d2d544800bffa9d8e5b668c57a"
+    },
+    {
+      "chapter": "10",
+      "file": "title10_ch10.json",
+      "records": 2,
+      "sha256": "a07a857dd565a302c6078595a405d32b8c9f72d109a76cdf3030d112628203a0"
+    },
+    {
+      "chapter": "11",
+      "file": "title10_ch11.json",
+      "records": 3,
+      "sha256": "0545389f0368a08de64a1c65fba08550af47f2462dc990538e6b9c0500e709d5"
+    },
+    {
+      "chapter": "12",
+      "file": "title10_ch12.json",
+      "records": 13,
+      "sha256": "7e06033a84d931552ef0146e06364b8ac8a5337c6f8ea69173a1701f57e4c23e"
+    },
+    {
+      "chapter": "13",
+      "file": "title10_ch13.json",
+      "records": 1,
+      "sha256": "5d0ffbdbd8edc1d3ac39290a99298d0346cb59e6c2bc016d02509d482a59fb9a"
+    },
+    {
+      "chapter": "14",
+      "file": "title10_ch14.json",
+      "records": 1,
+      "sha256": "5dfc80e6352015ec67ecb20f67f4c588b1f00d39bc3b94e885450e79ff22f373"
+    },
+    {
+      "chapter": "15",
+      "file": "title10_ch15.json",
+      "records": 1,
+      "sha256": "4fc634f57d4ae42e97025ffcac409df7648946b7c3732f85c3d517976e731f37"
+    },
+    {
+      "chapter": "16",
+      "file": "title10_ch16.json",
+      "records": 1,
+      "sha256": "e948f3674f591d5035ed2e9d7e2a79ce21cdfd2e033b387610346dfae3100b92"
+    },
+    {
+      "chapter": "17",
+      "file": "title10_ch17.json",
+      "records": 1,
+      "sha256": "8ae4cf3da1c5af2e40fb1631f7effe115a7824c0054ccae279a9b99e330d8e9d"
+    },
+    {
+      "chapter": "18",
+      "file": "title10_ch18.json",
+      "records": 1,
+      "sha256": "6c10675841ff7f33c27eefc97d38fad62dd25c3ed38c4a42b65aa0e9d720aeff"
+    },
+    {
+      "chapter": "19",
+      "file": "title10_ch19.json",
+      "records": 1,
+      "sha256": "ec669b6fd2a1d9199a12c4fc685ed60fb3f8bbf08ce458565a80e5bf19587890"
+    },
+    {
+      "chapter": "20",
+      "file": "title10_ch20.json",
+      "records": 2,
+      "sha256": "ff5834c43b82d69ef5d47d04bc5b401d6131cb7f70ea7872c7f05dccf4241d45"
+    },
+    {
+      "chapter": "21",
+      "file": "title10_ch21.json",
+      "records": 4,
+      "sha256": "37dbfe570b0cb712163d3209431f6fc3a6bfa19b214a19cc10d27774d265e37c"
+    },
+    {
+      "chapter": "22",
+      "file": "title10_ch22.json",
+      "records": 3,
+      "sha256": "261e7bfc60ed78c85430e03069258466664d85df1f820c071548ce9a7b68c948"
+    },
+    {
+      "chapter": "23",
+      "file": "title10_ch23.json",
+      "records": 7,
+      "sha256": "42fa56d1999695f144fea97f0583b8c7c0e11745fa74e6f2c96f07088b93ee03"
+    },
+    {
+      "chapter": "24",
+      "file": "title10_ch24.json",
+      "records": 1,
+      "sha256": "4c144fee552d230bd7dd1ee9a4250629136593a08f7535faf1d4307a7f26a722"
+    },
+    {
+      "chapter": "25",
+      "file": "title10_ch25.json",
+      "records": 2,
+      "sha256": "f3635c78412742ff24ee9c1aeced8c8e7b91ba79246c8cb866044344a18c9b35"
+    },
+    {
+      "chapter": "26",
+      "file": "title10_ch26.json",
+      "records": 3,
+      "sha256": "ff7023cab733756baa3434b91a974a30eb7ab3b2a067679184e9346b82ed861d"
+    },
+    {
+      "chapter": "27",
+      "file": "title10_ch27.json",
+      "records": 1,
+      "sha256": "5682f7dd1720cb993f940859626d3fafc0fd0fd8ed34c901ba233239c3bccdf6"
+    },
+    {
+      "chapter": "28",
+      "file": "title10_ch28.json",
+      "records": 1,
+      "sha256": "98c53efd08c20bac9cb9d578d5ddfaf90fcec550d6b4ab3784655b356996d3e6"
+    },
+    {
+      "chapter": "29",
+      "file": "title10_ch29.json",
+      "records": 1,
+      "sha256": "508fba26bf1452e85c64f12366a463fba73316e5d08bd29e6c8c1b8a178d7e0d"
+    },
+    {
+      "chapter": "30",
+      "file": "title10_ch30.json",
+      "records": 7,
+      "sha256": "f570a3b8c40984f240d30d89cfde7731d7e611689018b480be1ad38c9ff6341a"
+    },
+    {
+      "chapter": "31",
+      "file": "title10_ch31.json",
+      "records": 6,
+      "sha256": "84adae27ebdb59cbb7a81b9c39ba99c1f9d19814ddf7e1a62f66df9bc595aeed"
+    },
+    {
+      "chapter": "32",
+      "file": "title10_ch32.json",
+      "records": 3,
+      "sha256": "e3dcf49164dea60574570739cf976675ab19637db941d959181229d256f85bfa"
+    },
+    {
+      "chapter": "33",
+      "file": "title10_ch33.json",
+      "records": 1,
+      "sha256": "7c53c72212c0ad2817d2eba8fb0ff88c566e5969c92e34149038ac90f3dc9a92"
+    },
+    {
+      "chapter": "34",
+      "file": "title10_ch34.json",
+      "records": 1,
+      "sha256": "a7017c98affba852443969695332b0db6f992a9784abd675aef5e7bb21b25b92"
+    },
+    {
+      "chapter": "35",
+      "file": "title10_ch35.json",
+      "records": 2,
+      "sha256": "e96de991fa6467b9da5492b38acbb23d187744263320c089dee6bf56827651ae"
+    },
+    {
+      "chapter": "36",
+      "file": "title10_ch36.json",
+      "records": 1,
+      "sha256": "f8ebd672b5fda2486ab29b9b674a2c4faa06e3ac13d52eecdfd59a1928ed02be"
+    },
+    {
+      "chapter": "37",
+      "file": "title10_ch37.json",
+      "records": 3,
+      "sha256": "c0da9c10941b4296db014ee39f52af68c71bf412a99cec0764910c5c52532439"
+    },
+    {
+      "chapter": "38",
+      "file": "title10_ch38.json",
+      "records": 1,
+      "sha256": "abffd42a779b87cf70aab94d9838d20779e05cce831ba0323a239647e1e1ba6a"
+    },
+    {
+      "chapter": "39",
+      "file": "title10_ch39.json",
+      "records": 1,
+      "sha256": "696c6fae56138e5bb3e1d75db4e03c6c3a12b237fdd4072244d4c6b8586593a8"
+    },
+    {
+      "chapter": "40",
+      "file": "title10_ch40.json",
+      "records": 1,
+      "sha256": "1278312f7a9f100539abc4042ddc38e87391050ab5ad92719fdf8e4d81f01d0c"
+    },
+    {
+      "chapter": "41",
+      "file": "title10_ch41.json",
+      "records": 2,
+      "sha256": "f53e9566d91d84c3fd516034d06054c3fb2a9f6f2c77778992b11e1114b73560"
+    },
+    {
+      "chapter": "42",
+      "file": "title10_ch42.json",
+      "records": 24,
+      "sha256": "889b20ba99f3284f502089c3d4e222c705e22ad646156eef7ec0eaef6171d0c8"
+    },
+    {
+      "chapter": "43",
+      "file": "title10_ch43.json",
+      "records": 4,
+      "sha256": "b749a109994a01d4b64a67f66d99b2c7f787057ec86f1c28467696ff616e9c60"
+    },
+    {
+      "chapter": "44",
+      "file": "title10_ch44.json",
+      "records": 2,
+      "sha256": "2ce14766ba17f31ce527e64d3a200c7c9365605918527c6c93ac43c2c171eeac"
+    },
+    {
+      "chapter": "45",
+      "file": "title10_ch45.json",
+      "records": 1,
+      "sha256": "0c30eab36293928be86c202f518dc245b39e04f23ce0051aee21d7f754f47c33"
+    },
+    {
+      "chapter": "46",
+      "file": "title10_ch46.json",
+      "records": 1,
+      "sha256": "0fe0a51e6fcc61242ccaccbe784d731f09f8bebdf41e96686bb51bbeac96c261"
+    },
+    {
+      "chapter": "47",
+      "file": "title10_ch47.json",
+      "records": 1,
+      "sha256": "e38fa2f2c4b42831e1f6fd4bff28393400dc11da3ed5d86aef6cfeb1cc9ab072"
+    },
+    {
+      "chapter": "48",
+      "file": "title10_ch48.json",
+      "records": 1,
+      "sha256": "f8fdd215c0bb78f19ef711394a9ffe2fa68d72ab3346701b95242938b4ade2f6"
+    },
+    {
+      "chapter": "49",
+      "file": "title10_ch49.json",
+      "records": 1,
+      "sha256": "929f0984371b67c16586f7cd53c53ebe42abb4bcf3e652787912c01488f3ece6"
+    },
+    {
+      "chapter": "50",
+      "file": "title10_ch50.json",
+      "records": 1,
+      "sha256": "55fe9056ae4680188aeebd477a230a27147816954b4e938ae17a78b35967f717"
+    },
+    {
+      "chapter": "51",
+      "file": "title10_ch51.json",
+      "records": 2,
+      "sha256": "5e282ad17c0bc97f5a1361620db16068accf6875b76d6254478f1f359afb44f2"
+    },
+    {
+      "chapter": "52",
+      "file": "title10_ch52.json",
+      "records": 1,
+      "sha256": "31f7639e8e1b9af5faa3e926d4546d7ab8370fff505d01d7f5085b4a1d7dcee2"
+    },
+    {
+      "chapter": "53",
+      "file": "title10_ch53.json",
+      "records": 2,
+      "sha256": "5b8ff67f2474e1a9f570b46b595dbbb8d7635d3b40538ad9c2e3b4d0bd16bbda"
+    },
+    {
+      "chapter": "54",
+      "file": "title10_ch54.json",
+      "records": 2,
+      "sha256": "787398eba97e486dc811e350d6da14afdd3bd65fd4972f6a943b31a5ddd2a1ff"
+    },
+    {
+      "chapter": "55",
+      "file": "title10_ch55.json",
+      "records": 2,
+      "sha256": "ed6db8de3e8ec2556a9fa4f806b48f57449a948ba830bd34035276a76f61911c"
+    },
+    {
+      "chapter": "56",
+      "file": "title10_ch56.json",
+      "records": 1,
+      "sha256": "75020f0c3c294c0b32599f5874969f909ca592f35821e6f935cc8c7c954e487a"
+    },
+    {
+      "chapter": "57",
+      "file": "title10_ch57.json",
+      "records": 2,
+      "sha256": "cdbcd3d14d8c8b4f2f5287f0e147e2200f53daacf4be15cd5ed315be708efd87"
+    },
+    {
+      "chapter": "58",
+      "file": "title10_ch58.json",
+      "records": 1,
+      "sha256": "22d99444cdc6998fc90c36328877d788852de5440d16ae3381b9ddf09ed8fc6e"
+    },
+    {
+      "chapter": "59",
+      "file": "title10_ch59.json",
+      "records": 1,
+      "sha256": "03d11bc7ae59c6d2bed11d01f769cb8053193e4c3b0f18b04ffb7ab172f37c2d"
+    },
+    {
+      "chapter": "60",
+      "file": "title10_ch60.json",
+      "records": 1,
+      "sha256": "421869fc56fa6a50853a8758ab78c1dfe1f193f3416a5f3d49710cac5928ac7a"
+    },
+    {
+      "chapter": "61",
+      "file": "title10_ch61.json",
+      "records": 1,
+      "sha256": "94c92e3c70aad70f4df55f4a75daa97f547872cf75e8ef7a7c187317a2fd6d8a"
+    },
+    {
+      "chapter": "62",
+      "file": "title10_ch62.json",
+      "records": 1,
+      "sha256": "16478afe18d7e59d9efa87fe81ce01629badcb90e342e4c2868cf56c468c05fa"
+    },
+    {
+      "chapter": "63",
+      "file": "title10_ch63.json",
+      "records": 3,
+      "sha256": "d0414645accb89feb644111a758969519317bce7fac5355c147c5f07bd3edbd0"
+    },
+    {
+      "chapter": "64",
+      "file": "title10_ch64.json",
+      "records": 1,
+      "sha256": "4a8cf47d4166082294d5376fc9267314a8fff127fe71568fa94264510bcd94dd"
+    },
+    {
+      "chapter": "65",
+      "file": "title10_ch65.json",
+      "records": 1,
+      "sha256": "588bcd6bc6376d86e25b4aadc19308b58c9a02cae186e78f2205780ec07043da"
+    },
+    {
+      "chapter": "66",
+      "file": "title10_ch66.json",
+      "records": 1,
+      "sha256": "cff987b6f1ef43c860711636c1c05a684f7e038523c8ab05e63f6f6d908250af"
+    },
+    {
+      "chapter": "67",
+      "file": "title10_ch67.json",
+      "records": 3,
+      "sha256": "40be78ad2883e0e74bea2b2d191c99f52a74779826e2680e42ea6c1cf31886e3"
+    },
+    {
+      "chapter": "68",
+      "file": "title10_ch68.json",
+      "records": 1,
+      "sha256": "e05c93988faf6ffc1731bf11c1465cde159267d97460a7fdcd59be493835a9a5"
+    },
+    {
+      "chapter": "69",
+      "file": "title10_ch69.json",
+      "records": 1,
+      "sha256": "773434f7eef1e2f190c9c6dd1c51ed5282cc75a9a0b3bd3b7ade4274fe29f344"
+    },
+    {
+      "chapter": "70",
+      "file": "title10_ch70.json",
+      "records": 1,
+      "sha256": "c6df5d9e58ccfc7f6818c1a239dfd4550e39a8fbe3895b662e30beaf348019ac"
+    },
+    {
+      "chapter": "71",
+      "file": "title10_ch71.json",
+      "records": 1,
+      "sha256": "b7bac6a3d192766b01ba8a8347ba6dd8b7c845fdc91f67841329aead145511fe"
+    },
+    {
+      "chapter": "72",
+      "file": "title10_ch72.json",
+      "records": 1,
+      "sha256": "494db49083189d5f920fbccf52987271a71e478925d247a8c494f0a74e64f5fc"
+    },
+    {
+      "chapter": "73",
+      "file": "title10_ch73.json",
+      "records": 1,
+      "sha256": "178b4f0f696cd0f6c9694a0a58b843a187b45520278b95c8101fd3e90b185ccc"
+    },
+    {
+      "chapter": "74",
+      "file": "title10_ch74.json",
+      "records": 1,
+      "sha256": "bfa9c2558915f7caec271f0dc53c5238dac99c0a345b6e98ce0cf777da15031f"
+    },
+    {
+      "chapter": "75",
+      "file": "title10_ch75.json",
+      "records": 2,
+      "sha256": "0e53684e3534b30addf8a934c36f4f5b47342d5221536deac8c121250c18939b"
+    },
+    {
+      "chapter": "76",
+      "file": "title10_ch76.json",
+      "records": 1,
+      "sha256": "dc9ed669773225882569152055690a62db0c17fa837d441bb73c34ee5d0934fc"
+    },
+    {
+      "chapter": "77",
+      "file": "title10_ch77.json",
+      "records": 1,
+      "sha256": "2c6f236951ccf65d98d394e46ac4f54b5c29e8ec04aed79f6bba4c198ea29e9b"
+    },
+    {
+      "chapter": "78",
+      "file": "title10_ch78.json",
+      "records": 4,
+      "sha256": "61bbae7859ad20456440eb8be0898693b21cedbe9960b1fa19f3b30da23205e4"
+    },
+    {
+      "chapter": "79",
+      "file": "title10_ch79.json",
+      "records": 1,
+      "sha256": "d64df850c2a27cca457212c8c5c8cd50ce1a4268537e2bab3c4b4af4ab99cffa"
+    },
+    {
+      "chapter": "80",
+      "file": "title10_ch80.json",
+      "records": 2,
+      "sha256": "3f44247e7eca0ce2ac2ff352b550076782571d25f65a28a138876da8fd2054ca"
+    },
+    {
+      "chapter": "81",
+      "file": "title10_ch81.json",
+      "records": 1,
+      "sha256": "b6ad05f3f6071b57b68ebdd2ce4e4fa0dd9eb9c493128614046ccb4e0b433ae4"
+    },
+    {
+      "chapter": "82",
+      "file": "title10_ch82.json",
+      "records": 1,
+      "sha256": "9a4ecad147c34992b4e7c311a924e5ee94ee015f5792a55c9dd2eaff66aa806b"
+    },
+    {
+      "chapter": "83",
+      "file": "title10_ch83.json",
+      "records": 1,
+      "sha256": "ffcbc08318b92119aa418335713dfc5fe680f32bf1d8d9421183a1b105a79f20"
+    },
+    {
+      "chapter": "84",
+      "file": "title10_ch84.json",
+      "records": 1,
+      "sha256": "d1bba8109376eabaaa75d25e73528de178699df4a450a7d6b221bb5dfb42eef2"
+    }
+  ],
+  "source_file": "generated"
+}

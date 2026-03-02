@@ -1,0 +1,71 @@
+{
+  "chapters": [
+    {
+      "chapter": "01",
+      "file": "title1010_ch01.json",
+      "records": 1,
+      "sha256": "8615d522bc09664e7b12fd05d7dbd9c57c1e80770395422b69b8582319288c97"
+    },
+    {
+      "chapter": "02",
+      "file": "title1010_ch02.json",
+      "records": 2,
+      "sha256": "730db5ce544caca69afb88124e233a64534c3e7c92d6c3592df17b1e0d11a549"
+    },
+    {
+      "chapter": "03",
+      "file": "title1010_ch03.json",
+      "records": 19,
+      "sha256": "345d72eac17be2060617fbb7e360bec727bec2ad4929cba166b5365f843e6805"
+    },
+    {
+      "chapter": "04",
+      "file": "title1010_ch04.json",
+      "records": 3,
+      "sha256": "3cfcc77c8a3c068a029f286ff4ac3d33baa6111146a654b41d1d00097838a12d"
+    },
+    {
+      "chapter": "05",
+      "file": "title1010_ch05.json",
+      "records": 5,
+      "sha256": "501160e80a3097d1f4b4009d96ee93cce48613502334e60c42e0f39e5596f73b"
+    },
+    {
+      "chapter": "06",
+      "file": "title1010_ch06.json",
+      "records": 2,
+      "sha256": "a0a6eceb871bf9c6978e00919fc0bc2a35ddbad1ce7d67b5100eaf3c2fccadef"
+    },
+    {
+      "chapter": "07",
+      "file": "title1010_ch07.json",
+      "records": 3,
+      "sha256": "fd932bb9b3282c4296cdc487edb26e110947f874fb98908e324c545433b15bcd"
+    },
+    {
+      "chapter": "08",
+      "file": "title1010_ch08.json",
+      "records": 3,
+      "sha256": "a01c0683909a266628a83a71442b3adb545c66d1fbb83343ec7de0571c317f53"
+    },
+    {
+      "chapter": "09",
+      "file": "title1010_ch09.json",
+      "records": 3,
+      "sha256": "18122ae39fcefb52605515d4108ee374457779712547562a3ec9151355be70d4"
+    },
+    {
+      "chapter": "10",
+      "file": "title1010_ch10.json",
+      "records": 3,
+      "sha256": "4d0d2e6c6402628b0d156ab71155fb2e0dcad6c1c55d1bfe54bf2a38b406f38c"
+    },
+    {
+      "chapter": "11",
+      "file": "title1010_ch11.json",
+      "records": 30,
+      "sha256": "6b9c7b494853bad71167f28dbea580b2fa8e649b52f4956d3e4c7b2c7d4e1375"
+    }
+  ],
+  "source_file": "generated"
+}
