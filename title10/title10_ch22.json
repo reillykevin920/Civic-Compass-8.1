@@ -1,0 +1,35 @@
+[
+  {
+    "anchor": "403.1",
+    "chapter": 22,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch22.json",
+    "heading": "Habitable Spaces. Every habitable space shall have at least one openable window. The total openable area of the window in every room shall be equal to at least 45 percent of the minimum glazed area required in Section 402.1.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 0,
+    "verbatim": "Exceptions:\n1.\tWhere rooms and spaces without openings to the outdoors are ventilated through an adjoining room, the unobstructed opening to the adjoining room shall be at least 8 percent of the floor area of the interior room or space, but not less than 25 square feet (2.33 m). The ventilation openings to the outdoors shall be based on a total floor area being ventilated.\n2.\tIn R-3 occupancies, the glazed area need not be openable, where the opening is not required to be an emergency escape and rescue opening, and an approved mechanical ventilation system capable of producing 0.35 air changes per hour in the room is provided."
+  },
+  {
+    "anchor": "5",
+    "chapter": 22,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch22.json",
+    "heading": "5",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 1,
+    "verbatim": "PLUMBING FACILITIES AND FIXTURE REQUIREMENTS\nNo changes."
+  },
+  {
+    "anchor": "6",
+    "chapter": 22,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch22.json",
+    "heading": "6",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 2,
+    "verbatim": "MECHANICAL AND ELECTRICAL REQUIREMENTS"
+  }
+]

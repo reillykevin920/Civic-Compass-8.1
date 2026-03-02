@@ -1,0 +1,24 @@
+[
+  {
+    "anchor": "903.4.2",
+    "chapter": 57,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch57.json",
+    "heading": "Monitoring. Alarm, supervisory and trouble signals shall be distinctly different and shall be automatically transmitted to an Underwriters Laboratory listed supervising station.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 0,
+    "verbatim": "(46)\tSection 903.4.3, \"Alarms,\" is repealed and reenacted to read:"
+  },
+  {
+    "anchor": "903.4.3",
+    "chapter": 57,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch57.json",
+    "heading": "Alarms. Approved audible and visual devices shall be connected to every new automatic sprinkler system. Such sprinkler water-flow alarm devices shall be activated by water flow equivalent to the flow of a single sprinkler of the smallest orifice size installed in the system. Alarm devices shall be provided throughout the interior of the building in accordance with NFPA 72 and at least one on the exterior of the building in an approved location. Where a fire alarm system is installed, actuation of the automatic sprinkler shall actuate the building fire alarm system.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 1,
+    "verbatim": "Exception: Automatic sprinkler systems protecting one-and two-family dwellings.\n(47)\tA new Section 903.7, \"Response time sprinkler requirement,\" is adopted to read:"
+  }
+]

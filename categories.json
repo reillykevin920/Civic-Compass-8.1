@@ -1,0 +1,9 @@
+{
+  "categories": [
+    {
+      "id": "cat-01",
+      "label": "General",
+      "order": 1
+    }
+  ]
+}

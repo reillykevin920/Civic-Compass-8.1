@@ -1,0 +1,24 @@
+[
+  {
+    "anchor": "510.4.1.1",
+    "chapter": 53,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch53.json",
+    "heading": "Minimum signal strength into the building.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 0,
+    "verbatim": "The minimum downlink signal strength shall be sufficient to provide usable voice communications throughout the coverage area as specified by the fire code official. The downlink signal level shall be a minimum of -95 dBm throughout the coverage area and sufficient to provide not less than a Delivered Audio Quality (DAQ) of 3.0 throughout the coverage area using either narrow band analog, digital or wideband LTE signals or an equivalent bit error rate (BER), or signal-to-interference-plus-noise ratio (SINR) applicable to the technology for either analog or digital signals.\n(20)\tSection 510.4.1.2 is repealed and reenacted to read:"
+  },
+  {
+    "anchor": "510.4.1.2",
+    "chapter": 53,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch53.json",
+    "heading": "Minimum signal strength out of the building. A minimum signal strength of -95 dBm shall be received by the agency's radio system.",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 1,
+    "verbatim": "(21)\tSection 901.6, \"Inspection, testing and maintenance,\" is amended by the addition of the following:\nIf any building, structure, or portion of the same is protected by a fire detection, alarm, and extinguishing system, or the owner has agreed with the city manager so to protect the building or structure or portion thereof, then no person shall shut off or disable such system except as authorized under Section 11-1-45, \"Water to Be Shut Off for Failure to Pay,\" B.R.C. 1981, and no owner, manager, or tenant of such space shall fail to prevent the shutting off or disabling of such system. It is a specific defense to a charge of violation of this section that the system was shut off in order to perform maintenance work on the system, that it was shut off for the minimum period of time necessary to perform such work, and that maintenance personnel were on the premises performing such work during the entire time the system was shut off. The minimum penalty for violation of this section, no portion of which may be suspended, is a fine of $1,000.\n(22)\tSection 903 is amended by the addition of the following:\nAny new building or change of occupancy of an existing building that does not have approved fire department access as required by the fire code may be required by the fire code official to have an automatic fire sprinkler system installed regardless of the building size.\n(23)\tSection 903.1 is repealed and reenacted to read:"
+  }
+]

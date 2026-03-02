@@ -1,0 +1,28 @@
+{
+  "appSubtitle": "Title 10",
+  "appTitle": "Civic Compass",
+  "branding": {
+    "datasetLabel": "Title-10",
+    "department": "Building Inspectors",
+    "organization": "City of Boulder",
+    "productName": "Civic Compass",
+    "subtitle": "Title 10"
+  },
+  "corpora": [
+    {
+      "folder": "title10",
+      "key": "Title 10",
+      "label": "Title 10",
+      "manifest": "./data/title10_manifest.json",
+      "prefix": "title10_json"
+    }
+  ],
+  "features": {
+    "drawingsLibrary": false,
+    "restorationMode": false,
+    "utilitySeparations": false
+  },
+  "generatedAt": "1970-01-01T00:00:00Z",
+  "generatedFrom": "corpa_compiler",
+  "tiering": "generic"
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "anchor": "704",
+    "chapter": 26,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch26.json",
+    "heading": "704",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 0,
+    "verbatim": "FIRE PROTECTION SYSTEMS\n704.1—704.7 No Changes."
+  },
+  {
+    "anchor": "705",
+    "chapter": 26,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch26.json",
+    "heading": "705",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 1,
+    "verbatim": "CARBON MONOXIDE ALARMS\n705.1—705.2 No changes."
+  },
+  {
+    "anchor": "706",
+    "chapter": 26,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch26.json",
+    "heading": "706",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 2,
+    "verbatim": "PORTABLE FIRE EXTINGUISHERS"
+  }
+]

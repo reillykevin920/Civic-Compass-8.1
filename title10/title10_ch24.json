@@ -1,0 +1,13 @@
+[
+  {
+    "anchor": "605.2.1",
+    "chapter": 24,
+    "corpus": "Title 10",
+    "file": "title10/title10_ch24.json",
+    "heading": "Non-grounding type electrical receptacles (two-prong receptacles). Where attachment to an equipment grounding conductor (two-wire circuits) does not exist in the receptacle enclosure, the installation shall comply with subsections 1, 2 or 3 below:",
+    "page_end": null,
+    "page_start": null,
+    "rec_index": 0,
+    "verbatim": "1.\tA two-prong receptacle shall be permitted to be replaced with another two-prong receptacle.\n2.\tA two-prong receptacle may be replaced with a ground-fault circuit interrupter-type (GFCI) three-prong receptacle. These receptacles shall be marked \"No Equipment Ground.\" An equipment grounding conductor shall not be connected from the GFCI-type receptacle to any outlet supplied from the GFCI-type receptacle.\n3.\tA two-prong receptacle may be replaced with a three-prong, grounding-type receptacle where supplied through a GFCI device. Three-prong, grounding-type receptacles, supplied through the GFCI shall be marked \"GFCI Protected\" and \"No Equipment Ground.\" An equipment grounding conductor shall not be connected between the grounding-type receptacles."
+  }
+]
